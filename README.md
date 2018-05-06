@@ -66,7 +66,7 @@ fingers will both grasp what's going on.
 
 ### Pull Request From One Fork To Another
 
-Here's a story:
+Here is a story:
 
 1. You fork the repository `https://github.com/learn-co-students/awesome-lab`
    to `https://github.com/your-user-name/awesome-lab`.
